@@ -26,5 +26,10 @@ namespace GITChiShi
         {
             MessageBox.Show(textBox1.Text+textBox2.Text);
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
