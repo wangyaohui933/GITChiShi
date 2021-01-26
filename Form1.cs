@@ -24,7 +24,7 @@ namespace GITChiShi
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(textBox1.Text);
+            MessageBox.Show(textBox1.Text+textBox2.Text);
         }
     }
 }
