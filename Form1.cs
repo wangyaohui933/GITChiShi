@@ -21,7 +21,11 @@ namespace GITChiShi
         {
 
         }
-
+        /// <summary>
+        /// anjie 的注释
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show(textBox1.Text+textBox2.Text);
